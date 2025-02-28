@@ -1,0 +1,1 @@
+Este projeto é um pipeline de engenharia de dados que coleta, processa e armazena dados de clima.

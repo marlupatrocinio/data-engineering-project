@@ -1,0 +1,6 @@
+weather_project:
+  outputs:
+    dev:
+      type: duckdb
+      path: /path/to/duckdb.db
+  target: dev
