@@ -36,4 +36,4 @@ pip install -r fastapi_app/requirements.txt
 sudo kill -9 $(sudo lsof -t -i:8000) 2>/dev/null || true
 
 # Iniciar o FastAPI
-uvicorn fastapi_app.main:app --host 0.0.0.0 --port 8000 &
+uvicorn fastapi_app.main:app --host 0.0.0.0 --port 8001 &
